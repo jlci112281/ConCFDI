@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Concentrado.xsd" generated="2019-03-23T04:46:44">
+<Concentrado>
+<Id>1</Id>
+<Poliza>Ch</Poliza>
+<Numero>618</Numero>
+<Partida>6200-046-000</Partida>
+<Proveedor>2110-013-000</Proveedor>
+<UUID>4A6BD5A6-7433-41C5-8DB7-6D7BB08EF6F8</UUID>
+<Serie>EDAAJ</Serie>
+<Folio>3051</Folio>
+<RFC_x0020_emisor>TEX9302097F3</RFC_x0020_emisor>
+<Razon_x0020_emisor>TIENDAS EXTRA SA DE CV</Razon_x0020_emisor>
+<Conceptos>HIELO CUBO FIESTA 5KG | COCA COLA LATA 355ML | COCA COLA NR 400ML</Conceptos>
+<SubTotal>573.92</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>85.08</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>659</Total>
+</Concentrado>
+<Concentrado>
+<Id>2</Id>
+<Poliza>Ch</Poliza>
+<Numero>618</Numero>
+<Partida>6200-046-000</Partida>
+<Proveedor>2110-013-000</Proveedor>
+<UUID>C31E00B8-C6D6-4167-879D-34066B13884E</UUID>
+<Serie>EDAAJ</Serie>
+<Folio>3052</Folio>
+<RFC_x0020_emisor>TEX9302097F3</RFC_x0020_emisor>
+<Razon_x0020_emisor>TIENDAS EXTRA SA DE CV</Razon_x0020_emisor>
+<Conceptos>CERVEZA VICTORIA BOTELLA 210ML | HIELO CUBO FIESTA 5KG</Conceptos>
+<SubTotal>272.24</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>29.76</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>302</Total>
+</Concentrado>
+<Concentrado>
+<Id>3</Id>
+<Poliza>Ch</Poliza>
+<Numero>618</Numero>
+<Partida>6200-059-000</Partida>
+<Proveedor>2110-013-000</Proveedor>
+<UUID>2F4E8AA4-D0BE-41CE-9979-744B6C723025</UUID>
+<Serie>EDAAJ</Serie>
+<Folio>3050</Folio>
+<RFC_x0020_emisor>TEX9302097F3</RFC_x0020_emisor>
+<Razon_x0020_emisor>TIENDAS EXTRA SA DE CV</Razon_x0020_emisor>
+<Conceptos>TELECOM CCK TAE TELCEL 100 .</Conceptos>
+<SubTotal>86.21</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>13.79</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>100</Total>
+</Concentrado>
+<Concentrado>
+<Id>4</Id>
+<Poliza>Ch</Poliza>
+<Numero>619</Numero>
+<Partida>6200-023-000</Partida>
+<Proveedor>2110-053-000</Proveedor>
+<UUID>D6856277-99A7-47E6-9717-1197ED701FD8</UUID>
+<Serie>CFDI</Serie>
+<Folio>3289</Folio>
+<RFC_x0020_emisor>MYC130220152</RFC_x0020_emisor>
+<Razon_x0020_emisor>MYCAES SA DE CV</Razon_x0020_emisor>
+<Conceptos>DESCUENTO POR REDONDEO | Servicio Técnico | Ovation Preset de Wayne (GL71346) | CARGO POR REDONDEO</Conceptos>
+<SubTotal>1481.91</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>237.1</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1719.01</Total>
+</Concentrado>
+<Concentrado>
+<Id>5</Id>
+<Poliza>Ch</Poliza>
+<Numero>619</Numero>
+<Partida>6200-023-000</Partida>
+<Proveedor>2110-053-000</Proveedor>
+<UUID>70217E79-8FAB-4C30-8C96-B2D96EE1BE9D</UUID>
+<Serie>CFDI</Serie>
+<Folio>3290</Folio>
+<RFC_x0020_emisor>MYC130220152</RFC_x0020_emisor>
+<Razon_x0020_emisor>MYCAES SA DE CV</Razon_x0020_emisor>
+<Conceptos>DESCUENTO POR REDONDEO | Servicio Técnico | Ovation Preset de Wayne (GL71346) | CARGO POR REDONDEO</Conceptos>
+<SubTotal>1481.91</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>237.1</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1719.01</Total>
+</Concentrado>
+<Concentrado>
+<Id>6</Id>
+<Poliza>Ch</Poliza>
+<Numero>627</Numero>
+<Partida>6200-059-000</Partida>
+<Proveedor>2110-013-000</Proveedor>
+<UUID>6FC6F403-3B5B-4C4B-9AA8-9BDE7640098B</UUID>
+<Serie>EDAAJ</Serie>
+<Folio>3061</Folio>
+<RFC_x0020_emisor>TEX9302097F3</RFC_x0020_emisor>
+<Razon_x0020_emisor>TIENDAS EXTRA SA DE CV</Razon_x0020_emisor>
+<Conceptos>TELECOM CCK TAE TELCEL 100 .</Conceptos>
+<SubTotal>86.21</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>13.79</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>100</Total>
+</Concentrado>
+<Concentrado>
+<Id>7</Id>
+<Poliza>Ch</Poliza>
+<Numero>628</Numero>
+<Partida>6200-059-000</Partida>
+<Proveedor>2110-018-000</Proveedor>
+<UUID>6BA3EB0E-70BF-4679-B71E-051D40245ADE</UUID>
+<Serie>PUEFC</Serie>
+<Folio>1757294</Folio>
+<RFC_x0020_emisor>PPC980624U16</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEGASO PCS,S.A. DE C.V.</Razon_x0020_emisor>
+<Conceptos>Servicio de Mes | Módulos Contratados | Llamadas de Voz | Eventos, SMS y Descargas | Datos | Otros Servicios | Cargos Adicionales</Conceptos>
+<SubTotal>2019.82</SubTotal>
+<Descuento>107.76</Descuento>
+<IVA_x0020_Trasladado>305.93</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>2217.99</Total>
+</Concentrado>
+<Concentrado>
+<Id>8</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>4086AF9A-0FA8-40E4-BFA5-74818F9A501A</UUID>
+<Serie>FS</Serie>
+<Folio>1561447</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>139.8</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>22.37</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>162.17</Total>
+</Concentrado>
+<Concentrado>
+<Id>9</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>18C07280-AE4D-4CFD-8F23-5846E34A9B24</UUID>
+<Serie>FS</Serie>
+<Folio>1563708</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>184.09</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>29.46</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>213.55</Total>
+</Concentrado>
+<Concentrado>
+<Id>10</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>02AB3EA0-F7E4-4687-A093-461DEB5E9425</UUID>
+<Serie>FS</Serie>
+<Folio>1558895</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>192.91</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>30.86</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>223.77</Total>
+</Concentrado>
+<Concentrado>
+<Id>11</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>9107931A-772D-46C3-BA91-94D7A401DB18</UUID>
+<Serie>FS</Serie>
+<Folio>1560905</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>289.51</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>46.32</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>335.83</Total>
+</Concentrado>
+<Concentrado>
+<Id>12</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>73624C0D-FF47-405C-9458-242EA3D4BBF3</UUID>
+<Serie>FS</Serie>
+<Folio>1566448</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>431.97</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>69.12</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>501.09</Total>
+</Concentrado>
+<Concentrado>
+<Id>13</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>5B1231BD-3138-422D-835B-A357AA96BBB5</UUID>
+<Serie>FS</Serie>
+<Folio>1559762</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>459.09</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>73.46</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>532.55</Total>
+</Concentrado>
+<Concentrado>
+<Id>14</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>A06022D8-F852-49E9-A612-395B81D9E0C6</UUID>
+<Serie>FS</Serie>
+<Folio>1555619</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>562.68</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>90.03</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>652.71</Total>
+</Concentrado>
+<Concentrado>
+<Id>15</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>DBEA19E8-D08C-4972-AA52-2299302F4007</UUID>
+<Serie>FS</Serie>
+<Folio>1557534</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>579.46</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>92.71</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>672.17</Total>
+</Concentrado>
+<Concentrado>
+<Id>16</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>64F655D4-1B73-46A0-92B3-7E73678323F7</UUID>
+<Serie>FS</Serie>
+<Folio>1553693</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>684.46</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>109.51</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>793.97</Total>
+</Concentrado>
+<Concentrado>
+<Id>17</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>613497E0-D783-4704-9CAD-577DB28EDA6F</UUID>
+<Serie>FS</Serie>
+<Folio>1565554</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>719.59</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>115.14</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>834.73</Total>
+</Concentrado>
+<Concentrado>
+<Id>18</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>1146EB57-5A38-4A22-8688-C1B1A5D1554C</UUID>
+<Serie>FS</Serie>
+<Folio>1554822</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>748.37</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>119.74</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>868.11</Total>
+</Concentrado>
+<Concentrado>
+<Id>19</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>AFE29066-13FC-412C-B683-6E33E0961EA8</UUID>
+<Serie>FS</Serie>
+<Folio>1556079</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>823.23</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>131.72</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>954.95</Total>
+</Concentrado>
+<Concentrado>
+<Id>20</Id>
+<Poliza>Dr</Poliza>
+<Numero>1</Numero>
+<Partida>6100-061-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>BDFBE86C-C3EA-4B52-B72A-BEAE50146420</UUID>
+<Serie>FS</Serie>
+<Folio>1562274</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>INTERESES MORATORIOS BANCARIOS</Conceptos>
+<SubTotal>1470.35</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>235.26</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1705.61</Total>
+</Concentrado>
+<Concentrado>
+<Id>21</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>B8806BD7-DC27-4440-91FB-44A1C1C8515F</UUID>
+<Serie>FP</Serie>
+<Folio>34780533</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA PEMEX MAGNA | IMPORTE FLETE</Conceptos>
+<SubTotal>125881.71</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>19533.2</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>145414.91</Total>
+</Concentrado>
+<Concentrado>
+<Id>22</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>34F4D30C-2B0F-4674-90FC-B82549077538</UUID>
+<Serie>FP</Serie>
+<Folio>34908275</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA CONTENIDO MIN.87 OCTANOS | IMPORTE FLETE</Conceptos>
+<SubTotal>126276.97</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>19596.2</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>145873.17</Total>
+</Concentrado>
+<Concentrado>
+<Id>23</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>AF795760-2667-4C92-A015-96A7C87D6ABB</UUID>
+<Serie>FP</Serie>
+<Folio>34730827</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA PEMEX PREMIUM | IMPORTE FLETE</Conceptos>
+<SubTotal>140694.76</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>21769.24</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>162464</Total>
+</Concentrado>
+<Concentrado>
+<Id>24</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>F3DAF9A0-EAFB-48FE-AD67-A1DD928D31E5</UUID>
+<Serie>FP</Serie>
+<Folio>34685338</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA PEMEX MAGNA | IMPORTE FLETE</Conceptos>
+<SubTotal>188743.61</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>29286.92</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>218030.53</Total>
+</Concentrado>
+<Concentrado>
+<Id>25</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>E884300D-AF03-4735-9475-F7D07D0C0D47</UUID>
+<Serie>FP</Serie>
+<Folio>34722257</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA PEMEX MAGNA | IMPORTE FLETE</Conceptos>
+<SubTotal>188756.19</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>29288.87</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>218045.06</Total>
+</Concentrado>
+<Concentrado>
+<Id>26</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>552A8F7C-A0AC-4953-A823-8B07757CD9B3</UUID>
+<Serie>FP</Serie>
+<Folio>34783463</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA PEMEX MAGNA | IMPORTE FLETE</Conceptos>
+<SubTotal>188847.76</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>29303.7</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>218151.46</Total>
+</Concentrado>
+<Concentrado>
+<Id>27</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>23DF4D26-C3E7-4D98-A3DF-AC0A52DE5A1A</UUID>
+<Serie>FP</Serie>
+<Folio>34821885</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA PEMEX MAGNA | IMPORTE FLETE</Conceptos>
+<SubTotal>188847.76</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>29303.7</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>218151.46</Total>
+</Concentrado>
+<Concentrado>
+<Id>28</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>56D22729-8467-4AFA-A098-27DD41F22545</UUID>
+<Serie>FP</Serie>
+<Folio>34933297</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA CONTENIDO MIN.87 OCTANOS | IMPORTE FLETE</Conceptos>
+<SubTotal>189248.28</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>29367.72</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>218616</Total>
+</Concentrado>
+<Concentrado>
+<Id>29</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>F90A0AD1-E1AB-41D2-BF15-E193AE606EEE</UUID>
+<Serie>FP</Serie>
+<Folio>34906415</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA CONTENIDO MIN.87 OCTANOS | IMPORTE FLETE</Conceptos>
+<SubTotal>189352.33</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>29384.49</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>218736.82</Total>
+</Concentrado>
+<Concentrado>
+<Id>30</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>3CF44DAC-8250-4D31-801F-A3DE7EC35D20</UUID>
+<Serie>FP</Serie>
+<Folio>34866343</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA PEMEX MAGNA | IMPORTE FLETE</Conceptos>
+<SubTotal>189402.83</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>29392.34</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>218795.17</Total>
+</Concentrado>
+<Concentrado>
+<Id>31</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>0B100DFA-8BBF-491D-B72E-55CC5E277C43</UUID>
+<Serie>FP</Serie>
+<Folio>34906679</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>DIESEL AUTOMOTRIZ | IMPORTE FLETE</Conceptos>
+<SubTotal>200464.62</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>31317.18</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>231781.8</Total>
+</Concentrado>
+<Concentrado>
+<Id>32</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>5FFA76ED-341A-4610-A882-826AADAF7FEF</UUID>
+<Serie>FP</Serie>
+<Folio>34685073</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>PEMEX DIESEL | IMPORTE FLETE</Conceptos>
+<SubTotal>200553.85</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>31331.61</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>231885.46</Total>
+</Concentrado>
+<Concentrado>
+<Id>33</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>9AF81398-59DE-4062-BDE3-B7B1D81D1899</UUID>
+<Serie>FP</Serie>
+<Folio>34865990</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA PEMEX PREMIUM | IMPORTE FLETE</Conceptos>
+<SubTotal>211573.48</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>32738.81</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>244312.29</Total>
+</Concentrado>
+<Concentrado>
+<Id>34</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>C9094E88-0BEB-4A7E-B118-FBAE8B7C6AEB</UUID>
+<Serie>FP</Serie>
+<Folio>34758987</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA PEMEX MAGNA | IMPORTE FLETE</Conceptos>
+<SubTotal>251603.64</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>39040.76</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>290644.4</Total>
+</Concentrado>
+<Concentrado>
+<Id>35</Id>
+<Poliza>Dr</Poliza>
+<Numero>2</Numero>
+<Partida>1190-001-000</Partida>
+<Proveedor>2110-006-002</Proveedor>
+<UUID>8E578986-1E92-4556-83D2-046801C7F7D0</UUID>
+<Serie>FP</Serie>
+<Folio>34649419</Folio>
+<RFC_x0020_emisor>PTI151101TE5</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEMEX TRANSFORMACION INDUSTRIAL</Razon_x0020_emisor>
+<Conceptos>GASOLINA PEMEX MAGNA | IMPORTE FLETE</Conceptos>
+<SubTotal>252331.03</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>39156.97</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>291488</Total>
+</Concentrado>
+<Concentrado>
+<Id>36</Id>
+<Poliza>Dr</Poliza>
+<Numero>3</Numero>
+<Partida>6100-057-000</Partida>
+<Proveedor>2110-094-000</Proveedor>
+<UUID>2D0F94C9-B26C-4B5C-874F-12693F2636EC</UUID>
+<Folio>027</Folio>
+<RFC_x0020_emisor>JUAJ910131FG1</RFC_x0020_emisor>
+<Razon_x0020_emisor>JUAN ALBERTO JUAREZ AYAPANTECATL</Razon_x0020_emisor>
+<Conceptos>Sistema de seguridad</Conceptos>
+<SubTotal>1723.28</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>275.72</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1999</Total>
+</Concentrado>
+<Concentrado>
+<Id>37</Id>
+<Poliza>Dr</Poliza>
+<Numero>3</Numero>
+<Partida>6100-057-000</Partida>
+<Proveedor>2110-094-000</Proveedor>
+<UUID>00DEECD1-6BA7-48E1-AC9A-5F7D17CDF8DA</UUID>
+<Folio>028</Folio>
+<RFC_x0020_emisor>JUAJ910131FG1</RFC_x0020_emisor>
+<Razon_x0020_emisor>JUAN ALBERTO JUAREZ AYAPANTECATL</Razon_x0020_emisor>
+<Conceptos>Sistema de seguridad</Conceptos>
+<SubTotal>1723.28</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>275.72</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1999</Total>
+</Concentrado>
+<Concentrado>
+<Id>38</Id>
+<Poliza>Dr</Poliza>
+<Numero>3</Numero>
+<Partida>6100-057-000</Partida>
+<Proveedor>2110-094-000</Proveedor>
+<UUID>232E823C-D582-48BE-A299-DCC86DF3786F</UUID>
+<Folio>029</Folio>
+<RFC_x0020_emisor>JUAJ910131FG1</RFC_x0020_emisor>
+<Razon_x0020_emisor>JUAN ALBERTO JUAREZ AYAPANTECATL</Razon_x0020_emisor>
+<Conceptos>Sistema de seguridad</Conceptos>
+<SubTotal>1723.28</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>275.72</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1999</Total>
+</Concentrado>
+<Concentrado>
+<Id>39</Id>
+<Poliza>Dr</Poliza>
+<Numero>3</Numero>
+<Partida>6100-057-000</Partida>
+<Proveedor>2110-094-000</Proveedor>
+<UUID>9471A416-D745-4DCD-9327-D6D63F0B2653</UUID>
+<Folio>030</Folio>
+<RFC_x0020_emisor>JUAJ910131FG1</RFC_x0020_emisor>
+<Razon_x0020_emisor>JUAN ALBERTO JUAREZ AYAPANTECATL</Razon_x0020_emisor>
+<Conceptos>Sistema de seguridad</Conceptos>
+<SubTotal>1723.28</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>275.72</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1999</Total>
+</Concentrado>
+<Concentrado>
+<Id>40</Id>
+<Poliza>Dr</Poliza>
+<Numero>3</Numero>
+<Partida>6100-057-000</Partida>
+<Proveedor>2110-094-000</Proveedor>
+<UUID>8E5EE785-DEDF-406B-975C-1B1656790D8B</UUID>
+<Folio>031</Folio>
+<RFC_x0020_emisor>JUAJ910131FG1</RFC_x0020_emisor>
+<Razon_x0020_emisor>JUAN ALBERTO JUAREZ AYAPANTECATL</Razon_x0020_emisor>
+<Conceptos>Accesorios para Sistema de seguridad</Conceptos>
+<SubTotal>1727.58</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>276.42</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>2004</Total>
+</Concentrado>
+<Concentrado>
+<Id>41</Id>
+<Poliza>Dr</Poliza>
+<Numero>4</Numero>
+<Partida>6100-039-000</Partida>
+<Proveedor>2110-005-000</Proveedor>
+<UUID>EDC84F5E-06B3-4515-B17A-F47E9D6ED115</UUID>
+<RFC_x0020_emisor>TME840315KT6</RFC_x0020_emisor>
+<Razon_x0020_emisor>TELEFONOS DE MEXICO S.A.B. DE C.V.</Razon_x0020_emisor>
+<Conceptos>Servicio Local</Conceptos>
+<SubTotal>203.94</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>32.63</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>5.94</IEPS_x0020_Trasladado>
+<Total>236</Total>
+</Concentrado>
+<Concentrado>
+<Id>42</Id>
+<Poliza>Dr</Poliza>
+<Numero>4</Numero>
+<Partida>6100-039-000</Partida>
+<Proveedor>2110-005-000</Proveedor>
+<UUID>16060177-05B8-4076-8BA4-681C28E80025</UUID>
+<RFC_x0020_emisor>TME840315KT6</RFC_x0020_emisor>
+<Razon_x0020_emisor>TELEFONOS DE MEXICO S.A.B. DE C.V.</Razon_x0020_emisor>
+<Conceptos>Planes y Paquetes</Conceptos>
+<SubTotal>473.28</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>75.73</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>9.73</IEPS_x0020_Trasladado>
+<Total>549</Total>
+</Concentrado>
+<Concentrado>
+<Id>43</Id>
+<Poliza>Dr</Poliza>
+<Numero>4</Numero>
+<Partida>6100-039-000</Partida>
+<Proveedor>2110-005-000</Proveedor>
+<UUID>B49CC7A8-AD06-4729-B4A8-B71B2CA9D3DE</UUID>
+<RFC_x0020_emisor>TME840315KT6</RFC_x0020_emisor>
+<Razon_x0020_emisor>TELEFONOS DE MEXICO S.A.B. DE C.V.</Razon_x0020_emisor>
+<Conceptos>Planes y Paquetes</Conceptos>
+<SubTotal>688.79</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>110.19</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>14.17</IEPS_x0020_Trasladado>
+<Total>799</Total>
+</Concentrado>
+<Concentrado>
+<Id>44</Id>
+<Poliza>Dr</Poliza>
+<Numero>5</Numero>
+<Partida>6100-029-000</Partida>
+<Proveedor>2110-028-000</Proveedor>
+<UUID>DC60FA44-795E-408E-B87D-14B8710D91EF</UUID>
+<Folio>98</Folio>
+<RFC_x0020_emisor>CORJ761016N23</RFC_x0020_emisor>
+<Razon_x0020_emisor>JOSAFAT CORONA ROMERO</Razon_x0020_emisor>
+<Conceptos>NOTAS TÑO 1/4 DE CARTA EN MAT AUTOCOPIANTE IMPRESAS A UNA TINTA</Conceptos>
+<SubTotal>880</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>140.8</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1020.8</Total>
+</Concentrado>
+<Concentrado>
+<Id>45</Id>
+<Poliza>Dr</Poliza>
+<Numero>5</Numero>
+<Partida>6100-029-000</Partida>
+<Proveedor>2110-028-000</Proveedor>
+<UUID>8FD0ABC4-53CF-4B70-84C0-B7DD673334D2</UUID>
+<Folio>99</Folio>
+<RFC_x0020_emisor>CORJ761016N23</RFC_x0020_emisor>
+<Razon_x0020_emisor>JOSAFAT CORONA ROMERO</Razon_x0020_emisor>
+<Conceptos>NOTAS TÑO 1/4 DE CARTA EN MAT AUTOCOPIANTE IMPRESAS A UNA TINTA</Conceptos>
+<SubTotal>880</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>140.8</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1020.8</Total>
+</Concentrado>
+<Concentrado>
+<Id>46</Id>
+<Poliza>Dr</Poliza>
+<Numero>5</Numero>
+<Partida>6100-029-000</Partida>
+<Proveedor>2110-028-000</Proveedor>
+<UUID>A7C08895-B31D-4CAD-A97B-550E78350BA3</UUID>
+<Folio>96</Folio>
+<RFC_x0020_emisor>CORJ761016N23</RFC_x0020_emisor>
+<Razon_x0020_emisor>JOSAFAT CORONA ROMERO</Razon_x0020_emisor>
+<Conceptos>NOTAS TÑO 1/4 DE CARTA EN MAT AUTOCOPIANTE IMPRESAS A UNA
+TINTA</Conceptos>
+<SubTotal>1320</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>211.2</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1531.2</Total>
+</Concentrado>
+<Concentrado>
+<Id>47</Id>
+<Poliza>Dr</Poliza>
+<Numero>5</Numero>
+<Partida>6100-029-000</Partida>
+<Proveedor>2110-028-000</Proveedor>
+<UUID>C911F2E9-5FFC-4F5D-B44C-49BA7261A374</UUID>
+<Folio>97</Folio>
+<RFC_x0020_emisor>CORJ761016N23</RFC_x0020_emisor>
+<Razon_x0020_emisor>JOSAFAT CORONA ROMERO</Razon_x0020_emisor>
+<Conceptos>NOTAS TÑO 1/4 DE CARTA EN MAT AUTOCOPIANTE IMPRESAS A UNA TINTA</Conceptos>
+<SubTotal>1320</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>211.2</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1531.2</Total>
+</Concentrado>
+<Concentrado>
+<Id>48</Id>
+<Poliza>Dr</Poliza>
+<Numero>6</Numero>
+<Partida>6200-058-000</Partida>
+<Proveedor>2110-073-000</Proveedor>
+<UUID>245D6BC5-03C4-284B-A2F0-1E343192C8F2</UUID>
+<Serie>APUE</Serie>
+<Folio>245578</Folio>
+<RFC_x0020_emisor>ITE430714KI0</RFC_x0020_emisor>
+<Razon_x0020_emisor>INSTITUTO TECNOLOGICO Y DE ESTUDIOS SUPERIORES DE MONTERREY</Razon_x0020_emisor>
+<Conceptos>Tardías Preparatoria</Conceptos>
+<SubTotal>215.84</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>0</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>215.84</Total>
+</Concentrado>
+<Concentrado>
+<Id>49</Id>
+<Poliza>Dr</Poliza>
+<Numero>6</Numero>
+<Partida>6200-058-000</Partida>
+<Proveedor>2110-073-000</Proveedor>
+<UUID>1DAEBF31-6385-419B-824A-C1F5E7884D60</UUID>
+<Serie>APUE</Serie>
+<Folio>242516</Folio>
+<RFC_x0020_emisor>ITE430714KI0</RFC_x0020_emisor>
+<Razon_x0020_emisor>INSTITUTO TECNOLOGICO Y DE ESTUDIOS SUPERIORES DE MONTERREY</Razon_x0020_emisor>
+<Conceptos>Colegiatura Profesional Javier Quiroz Medel QUMJ980531HTLRDV06</Conceptos>
+<SubTotal>21018</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>0</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>21018</Total>
+</Concentrado>
+<Concentrado>
+<Id>50</Id>
+<Poliza>Dr</Poliza>
+<Numero>7</Numero>
+<Partida>7200-004-000</Partida>
+<Proveedor>2110-023-000</Proveedor>
+<UUID>57124F05-AF8B-4242-810E-6DC4A9D895B1</UUID>
+<Serie>a</Serie>
+<Folio>08001789260</Folio>
+<RFC_x0020_emisor>SIN9412025I4</RFC_x0020_emisor>
+<Razon_x0020_emisor>SCOTIABANK INVERLAT, S.A.</Razon_x0020_emisor>
+<Conceptos>TOTAL DE COMISIONES COBRADAS | INTERESES ORDINARIOS | INTERESES MORATORIOS</Conceptos>
+<SubTotal>200</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>32</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>232</Total>
+</Concentrado>
+<Concentrado>
+<Id>51</Id>
+<Poliza>Dr</Poliza>
+<Numero>8</Numero>
+<Partida>6100-041-000</Partida>
+<Proveedor>2110-134-000</Proveedor>
+<UUID>D86BC1F9-FFEE-4C9E-B515-1DEADDDFAA4A</UUID>
+<Serie>VD</Serie>
+<Folio>000007171294</Folio>
+<RFC_x0020_emisor>CSS160330CP7</RFC_x0020_emisor>
+<Razon_x0020_emisor>CFE SUMINISTRADOR DE SERVICIOS BASICOS</Razon_x0020_emisor>
+<Conceptos>ENERGIA</Conceptos>
+<SubTotal>5405.81</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>864.93</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>6379</Total>
+</Concentrado>
+<Concentrado>
+<Id>52</Id>
+<Poliza>Dr</Poliza>
+<Numero>8</Numero>
+<Partida>6100-025-000</Partida>
+<Proveedor>2110-082-000</Proveedor>
+<UUID>7212714C-E388-491A-A0FA-D9CD41C469F0</UUID>
+<Serie>1727</Serie>
+<RFC_x0020_emisor>FDD091026IK3</RFC_x0020_emisor>
+<Razon_x0020_emisor>FRACCIONAMIENTO DIEZ DIEZ DIEZ A.C.</Razon_x0020_emisor>
+<Conceptos>CUOTA DE MANTENIMIENTO INTERNO Y VIALIDADES MAYO 2017</Conceptos>
+<SubTotal>850</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>0</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>850</Total>
+</Concentrado>
+<Concentrado>
+<Id>53</Id>
+<Poliza>Dr</Poliza>
+<Numero>8</Numero>
+<Partida>6200-059-000</Partida>
+<Proveedor>2110-013-000</Proveedor>
+<UUID>46A11384-B6BC-44A0-B143-6AA114B5D56A</UUID>
+<Serie>EDAAJ</Serie>
+<Folio>3060</Folio>
+<RFC_x0020_emisor>TEX9302097F3</RFC_x0020_emisor>
+<Razon_x0020_emisor>TIENDAS EXTRA SA DE CV</Razon_x0020_emisor>
+<Conceptos>MASTERCEL TAE MOVISTAR 300</Conceptos>
+<SubTotal>258.62</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>41.38</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>300</Total>
+</Concentrado>
+<Concentrado>
+<Id>54</Id>
+<Poliza>Dr</Poliza>
+<Numero>9</Numero>
+<Partida>7200-004-000</Partida>
+<Proveedor>2110-001-000</Proveedor>
+<UUID>48197ADE-74A9-4112-983E-AF9925950244</UUID>
+<Folio>007458917310386855</Folio>
+<RFC_x0020_emisor>BBA830831LJ2</RFC_x0020_emisor>
+<Razon_x0020_emisor>BBVA BANCOMER, S.A.</Razon_x0020_emisor>
+<Conceptos>COMISIONES | INTERESES SUJETOS A IVA | INTERESES NO SUJETOS A IVA</Conceptos>
+<SubTotal>163</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>26.08</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>189.08</Total>
+</Concentrado>
+<Concentrado>
+<Id>55</Id>
+<Poliza>Tr</Poliza>
+<Numero>1</Numero>
+<Partida>6200-058-000</Partida>
+<Proveedor>2110-073-000</Proveedor>
+<UUID>BFB2430F-D7E3-4D4D-A4C7-99F2B9B814B5</UUID>
+<Serie>APUE</Serie>
+<Folio>242513</Folio>
+<RFC_x0020_emisor>ITE430714KI0</RFC_x0020_emisor>
+<Razon_x0020_emisor>INSTITUTO TECNOLOGICO Y DE ESTUDIOS SUPERIORES DE MONTERREY</Razon_x0020_emisor>
+<Conceptos>Colegiatura Preparatoria Ixchel Aleidaly Quiroz Medel QUMI010920MTLRDXA7</Conceptos>
+<SubTotal>12720</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>0</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>12720</Total>
+</Concentrado>
+<Concentrado>
+<Id>56</Id>
+<Poliza>Tr</Poliza>
+<Numero>2</Numero>
+<Partida>6200-028-000</Partida>
+<Proveedor>2110-087-000</Proveedor>
+<UUID>B61DFA90-2EBD-49D1-84C9-F6A581F7178E</UUID>
+<Serie>A</Serie>
+<Folio>34</Folio>
+<RFC_x0020_emisor>MAZE511023M26</RFC_x0020_emisor>
+<Razon_x0020_emisor>ENRIQUE MARTINEZ ZUVIRE</Razon_x0020_emisor>
+<Conceptos>RECOPILADORES T/CARTA | HOJAS BLANCAS PAQ 500 HOJAS | CORRECTOR TIPO LAPIZ | PROTECTOR HOJAS T/CARTA | MARCA TEXTOS AMARILLO BEROL | CUTTER GDE | PAPEL HIGIÉNICO RUEDA GDE DE 360 MTS | DETERGENTE EN POLVO ROMA DE 10KG A GRANEL | FABULOSO MAR FRESCO | CLOR</Conceptos>
+<SubTotal>2350</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>376</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>2726</Total>
+</Concentrado>
+<Concentrado>
+<Id>57</Id>
+<Poliza>Tr</Poliza>
+<Numero>2</Numero>
+<Partida>6200-021-000</Partida>
+<Proveedor>2110-087-000</Proveedor>
+<UUID>3EBC0A0B-722A-4CAE-9597-BD3AB66730E6</UUID>
+<Serie>A</Serie>
+<Folio>35</Folio>
+<RFC_x0020_emisor>MAZE511023M26</RFC_x0020_emisor>
+<Razon_x0020_emisor>ENRIQUE MARTINEZ ZUVIRE</Razon_x0020_emisor>
+<Conceptos>DETERGENTE EN POLVO ROMA DE 10KG A GRANEL | PAPEL HIGIÉNICO RUEDA GDE DE 360 MTS | CLORO LIQUIDO C/ENVASE RETORNABLE DE 20 LTS | FABULOSO MAR FRESCO | SARRICIDA LIQUIDO ENVASES 2/5 LTS | PASTILLAS P/SANITARIO 2 PAQ C/10 | TRAPEADOR REFORZADO DE 1KG | ESCO</Conceptos>
+<SubTotal>2454</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>392.64</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>2846.64</Total>
+</Concentrado>
+<Concentrado>
+<Id>58</Id>
+<Poliza>Tr</Poliza>
+<Numero>3</Numero>
+<Partida>6200-058-000</Partida>
+<Proveedor>2110-014-000</Proveedor>
+<UUID>3DC44981-58B6-4FBF-93FF-E529E8744863</UUID>
+<RFC_x0020_emisor>CCL120801SF5</RFC_x0020_emisor>
+<Razon_x0020_emisor>CENTRO CULTURAL LAFAYETTE CHIAUTEMPAN AC</Razon_x0020_emisor>
+<Conceptos>PAGO DE COLEGIATURA CORRESPONDIENTE AL MES DE MAYO DEL ALUMNO ALEJANDRO XAVIANY QUIROZ MEDEL DE 5TO. GRADO CON CLAVE CURP: QUMA051004HTLRDLA5</Conceptos>
+<SubTotal>2316</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>0</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>2316</Total>
+</Concentrado>
+<Concentrado>
+<Id>59</Id>
+<Poliza>Tr</Poliza>
+<Numero>4</Numero>
+<Partida>6200-061-000</Partida>
+<Proveedor>2110-091-000</Proveedor>
+<UUID>CD6E127C-2A9C-4EE3-9788-C24D41554891</UUID>
+<Folio>79286</Folio>
+<RFC_x0020_emisor>ROLJ6003194G1</RFC_x0020_emisor>
+<Razon_x0020_emisor>JOSE ROJAS LEON</Razon_x0020_emisor>
+<Conceptos>INDIANA CABLE 12 THW-LS/THHW-LS 600V X ROLLO | INDIANA CABLE 12 THW-LS/THHW-LS 600V X ROLLO | INDIANA CABLE 14 THW-LS/THHW-LS 600V X ROLLO | TUBO BICAPA DE PP 20MMX4MTRS | RX TUBO PVC SANITARIO 2 X TUBO | RX CODO 2X90 PVC SANITARIO | RX COPLE 2 PVC SANITA</Conceptos>
+<SubTotal>10299.54</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>1647.93</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>11947.47</Total>
+</Concentrado>
+<Concentrado>
+<Id>60</Id>
+<Poliza>Tr</Poliza>
+<Numero>5</Numero>
+<Partida>6200-059-000</Partida>
+<Proveedor>2110-004-000</Proveedor>
+<UUID>A60CF4C6-6E79-45C3-AE80-351CF546FE7E</UUID>
+<Serie>NMIX</Serie>
+<Folio>138430122</Folio>
+<RFC_x0020_emisor>CNM980114PI2</RFC_x0020_emisor>
+<Razon_x0020_emisor>AT&amp;T Comunicaciones Digitales, S. de R.L. de C.V.</Razon_x0020_emisor>
+<Conceptos>Renta de planes | Renta serv. opc. y datos | Consumos adicionales | Otros cargos y creditos</Conceptos>
+<SubTotal>1703.3</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>272.53</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1975.83</Total>
+</Concentrado>
+<Concentrado>
+<Id>61</Id>
+<Poliza>Tr</Poliza>
+<Numero>6</Numero>
+<Partida>6200-061-000</Partida>
+<Proveedor>2110-091-000</Proveedor>
+<UUID>191FBC2E-C485-4419-B405-C473C8CE9235</UUID>
+<Folio>78346</Folio>
+<RFC_x0020_emisor>ROLJ6003194G1</RFC_x0020_emisor>
+<Razon_x0020_emisor>JOSE ROJAS LEON</Razon_x0020_emisor>
+<Conceptos>TUBO BICAPA DE PP 25MMX4MTRS. | COPLE PRO 25MM | CODO 90Âº EN PP 25MM | TUBO BICAPA DE PP 20MMX4MTRS</Conceptos>
+<SubTotal>1127.2</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>180.35</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1307.55</Total>
+</Concentrado>
+<Concentrado>
+<Id>62</Id>
+<Poliza>Tr</Poliza>
+<Numero>7</Numero>
+<Partida>6100-060-000</Partida>
+<Proveedor>2110-084-000</Proveedor>
+<UUID>0BB44364-3043-4625-A741-3975435C8A22</UUID>
+<Serie>B</Serie>
+<Folio>937980984</Folio>
+<RFC_x0020_emisor>NOV100126FN4</RFC_x0020_emisor>
+<Razon_x0020_emisor>NOVABOX S DE RL DE CV</Razon_x0020_emisor>
+<Conceptos>Renta IRD | FUNCIONALIDAD IRD HD | RTA SEGUNDO EQPO | FUNCIONALIDAD IRD HD | RENTA CUARTO EQUIPO | RENTA TERCER EQUIPO | Asistencia SKY 3 ó 4 | FUNCIONALIDAD IRD HD | Asistencia SKY (1/4)</Conceptos>
+<SubTotal>772.43</SubTotal>
+<Descuento>87.93</Descuento>
+<IVA_x0020_Trasladado>109.52</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>794.02</Total>
+</Concentrado>
+<Concentrado>
+<Id>63</Id>
+<Poliza>Tr</Poliza>
+<Numero>8</Numero>
+<Partida>6100-023-000</Partida>
+<Proveedor>2110-095-000</Proveedor>
+<UUID>52212B06-700C-451B-A198-D96476AB24D4</UUID>
+<Folio>237</Folio>
+<RFC_x0020_emisor>FGV131008AI3</RFC_x0020_emisor>
+<Razon_x0020_emisor>FUTURE GLOBAL VISION MEX SA DE CV</Razon_x0020_emisor>
+<Conceptos>MEMBRESIA | Presidential Pack | Nota de venta: NV268 Importe: 28459.000000</Conceptos>
+<SubTotal>24533.62</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>3925.38</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>28459</Total>
+</Concentrado>
+<Concentrado>
+<Id>64</Id>
+<Poliza>Tr</Poliza>
+<Numero>9</Numero>
+<Partida>6200-059-000</Partida>
+<Proveedor>2110-018-000</Proveedor>
+<UUID>49AC6EB1-A538-4884-933B-9AF6BAEB3973</UUID>
+<Serie>PUEFC</Serie>
+<Folio>1752876</Folio>
+<RFC_x0020_emisor>PPC980624U16</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEGASO PCS,S.A. DE C.V.</Razon_x0020_emisor>
+<Conceptos>Servicio de Mes | Módulos Contratados | Llamadas de Voz | Eventos, SMS y Descargas | Datos | Otros Servicios | Cargos Adicionales</Conceptos>
+<SubTotal>318.1</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>50.9</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>369</Total>
+</Concentrado>
+<Concentrado>
+<Id>65</Id>
+<Poliza>Tr</Poliza>
+<Numero>10</Numero>
+<Partida>6200-061-000</Partida>
+<Proveedor>2110-091-000</Proveedor>
+<UUID>1AF06DB5-35AB-4AB7-B9E3-5D2DF0F93D47</UUID>
+<Folio>79030</Folio>
+<RFC_x0020_emisor>ROLJ6003194G1</RFC_x0020_emisor>
+<Razon_x0020_emisor>JOSE ROJAS LEON</Razon_x0020_emisor>
+<Conceptos>INDIANA CABLE 12 THW-LS/THHW-LS 600V X ROLLO | INDIANA CABLE 12 THW-LS/THHW-LS 600V X ROLLO | INDIANA CABLE 14 THW-LS/THHW-LS 600V X ROLLO | INDIANA CABLE 14 THW-LS/THHW-LS 600V X ROLLO | TEMFLEX CINTA DE AISLAR NEGRA 3M 0.19X18M | CONECTOR HEMBRA 20-1/2 </Conceptos>
+<SubTotal>18916.29</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>3026.61</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>21942.9</Total>
+</Concentrado>
+<Concentrado>
+<Id>66</Id>
+<Poliza>Tr</Poliza>
+<Numero>11</Numero>
+<Partida>6100-060-000</Partida>
+<Proveedor>2110-063-000</Proveedor>
+<UUID>63E201B3-99DC-4569-A134-C8AA96E5FCF8</UUID>
+<Serie>A</Serie>
+<Folio>937980984</Folio>
+<RFC_x0020_emisor>CNO960830IT7</RFC_x0020_emisor>
+<Razon_x0020_emisor>CORPORACIÓN NOVAVISIÓN S DE RL DE CV</Razon_x0020_emisor>
+<Conceptos>FUN | Cargo Administrativo individual E-mail</Conceptos>
+<SubTotal>303.44</SubTotal>
+<Descuento>31.03</Descuento>
+<IVA_x0020_Trasladado>43.59</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>316</Total>
+</Concentrado>
+<Concentrado>
+<Id>67</Id>
+<Poliza>Tr</Poliza>
+<Numero>12</Numero>
+<Partida>6200-061-000</Partida>
+<Proveedor>2110-091-000</Proveedor>
+<UUID>CCB7F62E-5356-437A-BE54-C86424B38F49</UUID>
+<Folio>79359</Folio>
+<RFC_x0020_emisor>ROLJ6003194G1</RFC_x0020_emisor>
+<Razon_x0020_emisor>JOSE ROJAS LEON</Razon_x0020_emisor>
+<Conceptos>TAPA REGISTRO 1/2 | TAPA REGISTRO CUADRADA 3/4</Conceptos>
+<SubTotal>474.5</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>75.92</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>550.42</Total>
+</Concentrado>
+<Concentrado>
+<Id>68</Id>
+<Poliza>Tr</Poliza>
+<Numero>13</Numero>
+<Partida>6200-030-000</Partida>
+<Proveedor>2110-009-000</Proveedor>
+<UUID>61E28A92-668E-406E-A49C-723CD97C3CA9</UUID>
+<Serie>RH</Serie>
+<Folio>4796</Folio>
+<RFC_x0020_emisor>CURP660909CB7</RFC_x0020_emisor>
+<Razon_x0020_emisor>PEDRO CRUZ ROSAS</Razon_x0020_emisor>
+<Conceptos>ASESORIA JURIDICA MES MAYO</Conceptos>
+<SubTotal>1724.14</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>275.86</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>2000</Total>
+</Concentrado>
+<Concentrado>
+<Id>69</Id>
+<Poliza>Tr</Poliza>
+<Numero>14</Numero>
+<Partida>6200-042-000</Partida>
+<Proveedor>2110-080-000</Proveedor>
+<UUID>F3E23412-B821-4F81-90AF-10E64FE687F1</UUID>
+<Serie>HU</Serie>
+<Folio>45153</Folio>
+<RFC_x0020_emisor>EGA050523510</RFC_x0020_emisor>
+<Razon_x0020_emisor>EXTRA GAS SA DE CV</Razon_x0020_emisor>
+<Conceptos>LITROS DE GAS L.P.</Conceptos>
+<SubTotal>6896.55</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>1103.45</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>8000</Total>
+</Concentrado>
+<Concentrado>
+<Id>70</Id>
+<Poliza>Tr</Poliza>
+<Numero>15</Numero>
+<Partida>6100-059-000</Partida>
+<Proveedor>2110-008-000</Proveedor>
+<UUID>8750781F-82BE-48D0-9255-60DE0A8952B5</UUID>
+<Serie>BP</Serie>
+<Folio>20015</Folio>
+<RFC_x0020_emisor>STV8406119B6</RFC_x0020_emisor>
+<Razon_x0020_emisor>SEGURITEC TRANSPORTE DE VALORES, S.A. DE C.V.</Razon_x0020_emisor>
+<Conceptos>TRANSP. RECOLECC. VAL.LUN-SAB 07:00 A 20 | CUOTA DE TRANSP.X VOLUMEN(C/1000 O FRAC)</Conceptos>
+<SubTotal>3961.84</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>633.89</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>4595.73</Total>
+</Concentrado>
+<Concentrado>
+<Id>71</Id>
+<Poliza>Tr</Poliza>
+<Numero>15</Numero>
+<Partida>6100-059-000</Partida>
+<Proveedor>2110-008-000</Proveedor>
+<UUID>8C4E759F-4CCB-47D4-A774-27ECA5D7B04E</UUID>
+<Serie>BP</Serie>
+<Folio>20014</Folio>
+<RFC_x0020_emisor>STV8406119B6</RFC_x0020_emisor>
+<Razon_x0020_emisor>SEGURITEC TRANSPORTE DE VALORES, S.A. DE C.V.</Razon_x0020_emisor>
+<Conceptos>TRANSP. RECOLECC. VAL.LUN-SAB 07:00 A 20 | CUOTA DE TRANSP.X VOLUMEN(C/1000 O FRAC)</Conceptos>
+<SubTotal>5328.13</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>852.5</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>6180.63</Total>
+</Concentrado>
+<Concentrado>
+<Id>72</Id>
+<Poliza>Tr</Poliza>
+<Numero>16</Numero>
+<Partida>6100-059-000</Partida>
+<Proveedor>2110-007-000</Proveedor>
+<UUID>3D37A090-3347-4E6B-9612-C3FB576EABC7</UUID>
+<Serie>BP</Serie>
+<Folio>12039</Folio>
+<RFC_x0020_emisor>SES9407254H3</RFC_x0020_emisor>
+<Razon_x0020_emisor>SESEPRO S.A. DE C.V.</Razon_x0020_emisor>
+<Conceptos>RENTA DE COFRES DE SEGURIDAD X MES</Conceptos>
+<SubTotal>626.33</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>100.21</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>726.54</Total>
+</Concentrado>
+<Concentrado>
+<Id>73</Id>
+<Poliza>Tr</Poliza>
+<Numero>16</Numero>
+<Partida>6100-059-000</Partida>
+<Proveedor>2110-007-000</Proveedor>
+<UUID>0F00EDE3-148C-4070-8603-311CE6388261</UUID>
+<Serie>BP</Serie>
+<Folio>12040</Folio>
+<RFC_x0020_emisor>SES9407254H3</RFC_x0020_emisor>
+<Razon_x0020_emisor>SESEPRO S.A. DE C.V.</Razon_x0020_emisor>
+<Conceptos>RENTA DE COFRES DE SEGURIDAD X MES</Conceptos>
+<SubTotal>626.33</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>100.21</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>726.54</Total>
+</Concentrado>
+<Concentrado>
+<Id>74</Id>
+<Poliza>Tr</Poliza>
+<Numero>16</Numero>
+<Partida>6100-059-000</Partida>
+<Proveedor>2110-007-000</Proveedor>
+<UUID>F75EA222-8474-407C-87CF-E1B2D9ECE205</UUID>
+<Serie>BP</Serie>
+<Folio>12121</Folio>
+<RFC_x0020_emisor>SES9407254H3</RFC_x0020_emisor>
+<Razon_x0020_emisor>SESEPRO S.A. DE C.V.</Razon_x0020_emisor>
+<Conceptos>BLOCK 50 JUEGOS COMPROBANTES SERVICIO | SEGURISELLOS 26 X 35 CMS</Conceptos>
+<SubTotal>1028.18</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>164.51</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>1192.69</Total>
+</Concentrado>
+<Concentrado>
+<Id>75</Id>
+<Poliza>Tr</Poliza>
+<Numero>17</Numero>
+<Partida>6200-042-000</Partida>
+<Proveedor>2110-011-000</Proveedor>
+<UUID>3414DDCB-B0C4-445B-8FA3-970AF31792E4</UUID>
+<Serie>A</Serie>
+<Folio>53285</Folio>
+<RFC_x0020_emisor>CMO960119RN7</RFC_x0020_emisor>
+<Razon_x0020_emisor>COMBUSTIBLES MALDONADO OLVERA SA DE CV</Razon_x0020_emisor>
+<Conceptos>AK AD.P/GASOLINA 24/BOT .250 ML (3409010) | LIMP. DE INYECTORES 24/B .250 ML (3409011) | AK ADITIVO GREEN ROAD GASOLINA 24/B .250 ML 1005014 | LIQ. P/FRENOS DOT 3 24/BOT .250 ML  (3409040) | AK MOTORCYCLE  2T C/24  BOT .250 ML (3409193)</Conceptos>
+<SubTotal>4364.03</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>698.25</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>5062.27</Total>
+</Concentrado>
+<Concentrado>
+<Id>76</Id>
+<Poliza>Tr</Poliza>
+<Numero>18</Numero>
+<Partida>6200-061-000</Partida>
+<Proveedor>2110-040-000</Proveedor>
+<UUID>1613BAC5-8DED-4D31-A317-9233FFD10DDD</UUID>
+<Serie>PU</Serie>
+<Folio>34142</Folio>
+<RFC_x0020_emisor>CCO961218UR1</RFC_x0020_emisor>
+<Razon_x0020_emisor>CORPORATIVO COPOLUSA SA DE CV</Razon_x0020_emisor>
+<Conceptos>CASCO VACIO MEDIANO | CASCO VACIO INTERMEDIO</Conceptos>
+<SubTotal>467.65</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>74.82</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>542.47</Total>
+</Concentrado>
+<Concentrado>
+<Id>77</Id>
+<Poliza>Tr</Poliza>
+<Numero>18</Numero>
+<Partida>6200-061-000</Partida>
+<Proveedor>2110-040-000</Proveedor>
+<UUID>BA33BA37-CBA6-465B-8AC0-21346DEBAC51</UUID>
+<Serie>PU</Serie>
+<Folio>34143</Folio>
+<RFC_x0020_emisor>CCO961218UR1</RFC_x0020_emisor>
+<Razon_x0020_emisor>CORPORATIVO COPOLUSA SA DE CV</Razon_x0020_emisor>
+<Conceptos>CASCO VACIO MEDIANO | CASCO VACIO INTERMEDIO</Conceptos>
+<SubTotal>467.65</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>74.82</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>542.47</Total>
+</Concentrado>
+<Concentrado>
+<Id>78</Id>
+<Poliza>Tr</Poliza>
+<Numero>18</Numero>
+<Partida>6200-061-000</Partida>
+<Proveedor>2110-040-000</Proveedor>
+<UUID>50FE58CC-D04F-4267-82A0-9F42341801BC</UUID>
+<Serie>PU</Serie>
+<Folio>34141</Folio>
+<RFC_x0020_emisor>CCO961218UR1</RFC_x0020_emisor>
+<Razon_x0020_emisor>CORPORATIVO COPOLUSA SA DE CV</Razon_x0020_emisor>
+<Conceptos>CASCO VACIO MEDIANO | CASCO VACIO MEDIANO</Conceptos>
+<SubTotal>513.85</SubTotal>
+<Descuento>0</Descuento>
+<IVA_x0020_Trasladado>82.22</IVA_x0020_Trasladado>
+<IEPS_x0020_Trasladado>0</IEPS_x0020_Trasladado>
+<Total>596.07</Total>
+</Concentrado>
+<Concentrado>
+<Id>79</Id>
+</Concentrado>
+<Concentrado>
+<Id>80</Id>
+</Concentrado>
+<Concentrado>
+<Id>81</Id>
+</Concentrado>
+<Concentrado>
+<Id>82</Id>
+</Concentrado>
+<Concentrado>
+<Id>83</Id>
+</Concentrado>
+<Concentrado>
+<Id>84</Id>
+</Concentrado>
+<Concentrado>
+<Id>85</Id>
+</Concentrado>
+<Concentrado>
+<Id>86</Id>
+</Concentrado>
+</dataroot>
